@@ -1,4 +1,4 @@
-# 🍔 Food Store Dashboard - Sistema de Gestión Integral
+# 🍔 Tienda De Comidas - Sistema de Gestión Integral
 
 Panel administrativo diseñado para optimizar el inventario y las ventas de una tienda de comida. Permite un control total sobre el stock, los usuarios del sistema y la base de datos de clientes a través de una interfaz intuitiva.
 
